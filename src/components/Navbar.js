@@ -22,17 +22,17 @@ class Navbar extends Component {
               {" "}
               <path
                 d="M55.5 0H77.5L58.5 32H36.5L55.5 0Z"
-                class="ccustom"
+                className="ccustom"
                 fill="#FF7A00"
               ></path>{" "}
               <path
                 d="M35.5 0H51.5L32.5 32H16.5L35.5 0Z"
-                class="ccompli1"
+                className="ccompli1"
                 fill="#FF9736"
               ></path>{" "}
               <path
                 d="M19.5 0H31.5L12.5 32H0.5L19.5 0Z"
-                class="ccompli2"
+                className="ccompli2"
                 fill="#FFBC7D"
               ></path>{" "}
             </svg>
